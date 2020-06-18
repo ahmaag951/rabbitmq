@@ -1,0 +1,20 @@
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\obj\Debug\Sql Dependency Entity Framework.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\Sql Dependency Entity Framework.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\Sql Dependency Entity Framework.dll
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\Sql Dependency Entity Framework.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\EntityFramework.dll
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Webpages.Deployment.dll
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Webpages.dll
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Webpages.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\EntityFramework.xml
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Webpages.xml
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Webpages.Deployment.xml
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Webpages.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\obj\Debug\Sql Dependency Entity Framework.dll
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency Entity Framework\Sql Dependency Entity Framework\obj\Debug\Sql Dependency Entity Framework.pdb

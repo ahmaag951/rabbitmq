@@ -1,0 +1,20 @@
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\bin\Debug\Lookups.DAL.dll.config
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\bin\Debug\Lookups.DAL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\bin\Debug\Lookups.DAL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\obj\Debug\Lookups.DAL.dll
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\obj\Debug\Lookups.DAL.pdb
+C:\Users\ahmed.ezzat\Documents\Visual Studio 2013\Projects\Hospital\Lookups.DAL\obj\Debug\Lookups.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\bin\Debug\Lookups.DAL.dll.config
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\bin\Debug\Lookups.DAL.dll
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\bin\Debug\Lookups.DAL.pdb
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\obj\Debug\Lookups.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\obj\Debug\Lookups.DAL.dll
+C:\Users\ahmed.ezzat.EVISION\Desktop\0\Hospital\Lookups.DAL\obj\Debug\Lookups.DAL.pdb

@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency\Sql Dependency\bin\Debug\Sql Dependency.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency\Sql Dependency\bin\Debug\Sql Dependency.exe
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency\Sql Dependency\bin\Debug\Sql Dependency.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency\Sql Dependency\obj\Debug\Sql Dependency.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency\Sql Dependency\obj\Debug\Sql Dependency.exe
+c:\users\admin\documents\visual studio 2013\Projects\Sql Dependency\Sql Dependency\obj\Debug\Sql Dependency.pdb

@@ -1,0 +1,23 @@
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\bin\Debug\test rabbit mq with queues.exe.config
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\bin\Debug\test rabbit mq with queues.exe
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\bin\Debug\test rabbit mq with queues.pdb
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\bin\Debug\RabbitMQ.Client.dll
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\bin\Debug\RabbitMQ.Client.xml
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\obj\Debug\test rabbit mq with queues.csprojResolveAssemblyReference.cache
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\obj\Debug\test rabbit mq with queues.csproj.CoreCompileInputs.cache
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\obj\Debug\test rabbit mq with queues.csproj.CopyComplete
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\obj\Debug\test rabbit mq with queues.exe
+C:\Users\ad\source\repos\test rabbit mq with queues\test rabbit mq with queues\obj\Debug\test rabbit mq with queues.pdb
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\bin\Debug\test rabbit mq with queues.exe.config
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\bin\Debug\test rabbit mq with queues.exe
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\bin\Debug\test rabbit mq with queues.pdb
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\bin\Debug\RabbitMQ.Client.dll
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\bin\Debug\RabbitMQ.Client.xml
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\obj\Debug\test rabbit mq with queues.csprojAssemblyReference.cache
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\obj\Debug\test rabbit mq with queues.csproj.CopyComplete
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\obj\Debug\test rabbit mq with queues.exe
+F:\CS\Samples\Backend\rabbitmq and mass transit\06.test rabbit mq with queues\test rabbit mq with queues\obj\Debug\test rabbit mq with queues.pdb

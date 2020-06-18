@@ -1,0 +1,12 @@
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\bin\Debug\RabbitMQ.Client.dll
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\bin\Debug\RabbitMQ.Client.xml
+C:\Users\ad\source\repos\test rabbit mq with queues\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete

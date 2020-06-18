@@ -1,0 +1,27 @@
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\bin\Debug\test Easy.MessageHub.exe.config
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\bin\Debug\test Easy.MessageHub.exe
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\bin\Debug\test Easy.MessageHub.pdb
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\bin\Debug\Easy.MessageHub.dll
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\bin\Debug\Easy.MessageHub.xml
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\obj\Debug\test Easy.MessageHub.csprojResolveAssemblyReference.cache
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\obj\Debug\test Easy.MessageHub.csproj.CoreCompileInputs.cache
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\obj\Debug\test Easy.MessageHub.csproj.CopyComplete
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\obj\Debug\test Easy.MessageHub.exe
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\obj\Debug\test Easy.MessageHub.pdb
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\bin\Debug\RabbitMQ.Client.dll
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\ad\source\repos\test Easy.MessageHub\test Easy.MessageHub\bin\Debug\RabbitMQ.Client.xml
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\bin\Debug\test Easy.MessageHub.exe.config
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\bin\Debug\test Easy.MessageHub.exe
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\bin\Debug\test Easy.MessageHub.pdb
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\bin\Debug\Easy.MessageHub.dll
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\bin\Debug\RabbitMQ.Client.dll
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\bin\Debug\Easy.MessageHub.xml
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\bin\Debug\RabbitMQ.Client.xml
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\obj\Debug\test Easy.MessageHub.csprojAssemblyReference.cache
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\obj\Debug\test Easy.MessageHub.csproj.CopyComplete
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\obj\Debug\test Easy.MessageHub.exe
+F:\CS\Samples\Backend\rabbitmq and mass transit\03.test Easy.MessageHub\test Easy.MessageHub\obj\Debug\test Easy.MessageHub.pdb

@@ -65,10 +65,12 @@ namespace Common.Events
                 }
 
                 // call calculation, or do whatever you want with the data
-                if (data != default)
-                {
-                    myMethodName(data);
-                }
+                //if (data != default)
+                //{
+                //    myMethodName(data);
+                //}
+
+                myMethodName(data);
 
                 channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
             };

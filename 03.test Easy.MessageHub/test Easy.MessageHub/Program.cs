@@ -21,22 +21,19 @@ namespace test_Easy.MessageHub
         public static void Publish()
         {
             var hub = Easy.MessageHub.MessageHub.Instance;
-            // OrderPlaced and OrderDeleted both inherit from Order
-            //hub.Publish(new OrderPlaced());
-            //hub.Publish(new OrderDeleted());
 
             // let us send a string message on the same hub
-            hub.Publish("A Very Important Message!");
+            hub.Publish("This is the new Message!");
         }
         public static void Subscribe()
         {
             var hub = Easy.MessageHub.MessageHub.Instance;
 
-            Action<string> onNewOrder = o => {
-                /* do whatever you want with the Order */
-                Console.WriteLine("New Message Came it is: " + o);
+            Action<string> onNewMessage = messaage => {
+                /* do whatever you want with the message */
+                Console.WriteLine("New Message Came it is: " + messaage);
             };
-            var token = hub.Subscribe(onNewOrder);
+            var token = hub.Subscribe(onNewMessage);
         }
     }
 }
